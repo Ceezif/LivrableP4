@@ -25,9 +25,13 @@ footer {
     i {
         width: 20px;
     }
-    p {
+    p, a {
         display: flex;
         gap: 10px;
+        color: white;
+    }
+    a {
+        align-items: center;
     }
     }
 }
