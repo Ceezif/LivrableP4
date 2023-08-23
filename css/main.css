@@ -91,6 +91,10 @@ Bouton explorer - gradient */
   font-weight: 300;
   font-size: 18px;
 }
+.accueil section p:hover {
+  background-color: #000000;
+  color: red;
+}
 .accueil section p {
   font-family: "Roboto", sans-serif;
   font-weight: 500;

@@ -373,9 +373,13 @@ footer article {
 footer article i {
   width: 20px;
 }
-footer article p {
+footer article p, footer article a {
   display: flex;
   gap: 10px;
+  color: white;
+}
+footer article a {
+  align-items: center;
 }
 
 /* Version desktop */
